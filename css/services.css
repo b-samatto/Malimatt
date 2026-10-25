@@ -1,0 +1,36 @@
+#paragraph {
+    font-weight: bold;
+
+
+}
+
+#shipping {
+color: rgb(138, 17, 17);
+}
+
+.one{
+font-style: italic;
+
+
+}
+
+#vip{
+
+background-color: rgb(26, 42, 90);
+margin: 40px;
+padding: 30px;
+border-radius: 10px;
+
+}
+#main{
+display: flex;
+
+
+}
+.customer{
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(26, 42, 90);
+    color: white;
+}
